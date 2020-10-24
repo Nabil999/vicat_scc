@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vicat_scc/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/vicat_scc/static/js/main.59d0ba7a.chunk.js",
+    "main.js.map": "/vicat_scc/static/js/main.59d0ba7a.chunk.js.map",
+    "runtime-main.js": "/vicat_scc/static/js/runtime-main.f367bc96.js",
+    "runtime-main.js.map": "/vicat_scc/static/js/runtime-main.f367bc96.js.map",
+    "static/js/2.c9185c28.chunk.js": "/vicat_scc/static/js/2.c9185c28.chunk.js",
+    "static/js/2.c9185c28.chunk.js.map": "/vicat_scc/static/js/2.c9185c28.chunk.js.map",
+    "index.html": "/vicat_scc/index.html",
+    "precache-manifest.4671b8a76c9ed80635a22a2b4984860e.js": "/vicat_scc/precache-manifest.4671b8a76c9ed80635a22a2b4984860e.js",
+    "service-worker.js": "/vicat_scc/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/vicat_scc/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c9185c28.chunk.js.LICENSE.txt": "/vicat_scc/static/js/2.c9185c28.chunk.js.LICENSE.txt",
+    "static/media/vicat_logo.svg": "/vicat_scc/static/media/vicat_logo.3e16c13d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f367bc96.js",
+    "static/js/2.c9185c28.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.59d0ba7a.chunk.js"
+  ]
+}
